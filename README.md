@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I am a senior Sociology and Data Analytics student at Seattle Pacific University.
+- How to reach me: davisa31@spu.edu
 <!--
 **Audrey-Davis/Audrey-Davis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
